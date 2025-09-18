@@ -49,6 +49,7 @@ def test_sum_of_digits():
 ```
 ## Output:
 
+<img width="749" height="216" alt="Screenshot (596)" src="https://github.com/user-attachments/assets/f4948545-5006-4058-a36b-16ec1872220b" />
 
 ## Result:
 Thus, the Pytest program for Sum of Digits (EX13.py & TEST_EX13.py) was successfully written, executed, and tested. 
